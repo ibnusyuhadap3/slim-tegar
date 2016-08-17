@@ -12,7 +12,9 @@
     ],
     "require": {
         "slim/slim": "^3.5",
-        "php-di/php-di": "^5.3"
+        "php-di/php-di": "^5.3",
+        "php-di/invoker": "^1.3",
+        "php": ">=5.5"
     },
     "autoload":
     {
