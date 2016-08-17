@@ -1,0 +1,12 @@
+{
+    "require": {
+        "slim/slim": "^3.5",
+        "php-di/php-di": "^5.3"
+    },
+    "autoload":
+    {
+    	"psr-4": {
+    		"IS\\Slim\\Tegar\\": "src"
+    	}
+    }    
+}
