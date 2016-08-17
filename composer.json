@@ -1,4 +1,15 @@
 {
+    "name": "ibnusyuhada/slim-tegar",
+    "type": "library",
+    "keywords": ["slim","framework","tegar","slim tegar","integration","php-di"],
+    "description": "Slim Tegar is a package that designed for integrating PHP-DI and Slim Framework version 3.x.x. This package is an Slim Bridge advanced of http://php-di.org/doc/frameworks/slim.html. You don't need to extends any class of PHP-DI or Slim just to make container configuration. Slim Tegar also providing the easy way to implement Closure and MVC routes.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ibnu Syuhada",
+            "email": "ibnusyuhadap3@gmail.com"
+        }
+    ],
     "require": {
         "slim/slim": "^3.5",
         "php-di/php-di": "^5.3"
