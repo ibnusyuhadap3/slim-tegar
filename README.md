@@ -1,3 +1,5 @@
+[![Latest Stable Version](https://poser.pugx.org/ibnusyuhada/slim-tegar/v/stable?format=flat-square)](https://packagist.org/packages/ibnusyuhada/slim-tegar) [![License](https://poser.pugx.org/ibnusyuhada/slim-tegar/license?format=flat-square)](https://packagist.org/packages/ibnusyuhada/slim-tegar)
+
 # Slim Tegar
 
 Slim Tegar is a package that designed for integrating PHP-DI and Slim Framework version 3.x.x. This package is an [Slim Bridge](http://php-di.org/doc/frameworks/slim.html) advanced. You don't need to exteds just to make container configuration. Slim Tegar also providing the easy way to implement Closure and MVC routes.
